@@ -7,7 +7,6 @@ tags:
   - category1
   - category2
 ---
-<img src='/images/Screenshot 2025-11-17 172922.png'>
 This image is part 4 of the image processing or computer vision process. The process of applying image processing (image processing) or computer vision to objects, which will sometimes attempt to find and count fossils embedded in the Python code's memory, is called the "original image."
 
 "1. Original Image" (Original Image):
@@ -28,5 +27,9 @@ In this step, the system detects 30 objects (or edges).
 This image is the final result of the process (steps 2 and 3 may be combined).
 The original image is displayed in green, in order, with the objects the system concludes are the objects it determines to be the desired object (fossil).
 In this final step, the system concludes that 21 target objects were found.
+
+In summary, this image shows the computer attempting to "consider," "count," fossils using various techniques, such as color filtering and edge efficiency. However, it still has problems capturing some of the unclear fossil edges.
+
+<img src='/images/Screenshot 2025-11-17 172922.png'>
 
 In summary, this image shows the computer attempting to "consider," "count," fossils using various techniques, such as color filtering and edge efficiency. However, it still has problems capturing some of the unclear fossil edges.
