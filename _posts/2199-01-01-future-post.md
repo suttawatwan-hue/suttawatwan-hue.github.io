@@ -1,6 +1,6 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
+title: 'Test fossil specimens'
+date: 2025-11-17
 permalink: /posts/2012/08/blog-post-4/
 tags:
   - cool posts
