@@ -7,5 +7,5 @@ tags:
   - category1
   - category2
 ---
-
+<img src='/images/Screenshot 2025-11-17 172922.png'>
 Currently, fossils can be captured but there is a problem with the color of the rocks that are similar to the fossils, making the program difficult to classify.
