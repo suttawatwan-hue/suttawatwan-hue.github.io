@@ -1,6 +1,6 @@
 ---
 title: "Trial sample image 1"
-excerpt: "Sample images taken from the internet'>"
+excerpt: "Sample images taken from the internet 1 <images/Screenshot 2025-11-17 172711.png'>"
 collection: portfolio
 ---
 
