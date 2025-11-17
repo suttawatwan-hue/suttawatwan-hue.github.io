@@ -11,7 +11,6 @@ As I study geology and would like to try writing code to help me with a project 
 
 Fossil ring program separated from the rock
 ======
-ได้ครับ นี่คือคำแปลเป็นภาษาอังกฤษครับ
 
 Here are the primary reasons for developing a program for "circling" or Image Segmentation to automatically separate fossils from their surrounding rock (matrix). This is extremely beneficial for research in Paleontology.
 
