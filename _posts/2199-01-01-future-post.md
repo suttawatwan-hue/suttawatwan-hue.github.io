@@ -8,4 +8,4 @@ tags:
   - category2
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+Currently, fossils can be captured but there is a problem with the color of the rocks that are similar to the fossils, making the program difficult to classify.
